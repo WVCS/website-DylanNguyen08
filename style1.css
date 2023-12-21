@@ -1,17 +1,17 @@
 body{
-  background-color: #444444;
+  background-color: #056c89;
 }
 h1{
   font-size: 450%;
   letter-spacing: 3px;
-  color: #f3f6f4;
+  color: #88b4be;
   text-decoration: bold;
   text-decoration: underline;
   font-family: "Helvetica";
 }
 p{
   font-size: 200%;
-  color: #f3f6f4;
+  color: #c3e4e9;
    text-decoration: bold;
   font-family: "Helvetica";
   letter-spacing: 3px;
@@ -21,7 +21,6 @@ img{
   border-style: solid;
 }
 iframe{
-  
 }
 u1{
   text-align: center;
@@ -39,6 +38,6 @@ li a{
   border: solid;
 }
 li a:hover{
-  background-color: #000000;
-  color: white;
+  background-color: #023653;
+  color: #88b4be;
 }
